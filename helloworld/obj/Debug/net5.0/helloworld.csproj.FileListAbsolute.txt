@@ -1,0 +1,16 @@
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\bin\Debug\net5.0\helloworld.exe
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\bin\Debug\net5.0\helloworld.deps.json
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.json
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.dev.json
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\bin\Debug\net5.0\helloworld.dll
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\bin\Debug\net5.0\ref\helloworld.dll
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\bin\Debug\net5.0\helloworld.pdb
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\obj\Debug\net5.0\helloworld.csproj.AssemblyReference.cache
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\obj\Debug\net5.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfoInputs.cache
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfo.cs
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\obj\Debug\net5.0\helloworld.csproj.CoreCompileInputs.cache
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\obj\Debug\net5.0\helloworld.dll
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\obj\Debug\net5.0\ref\helloworld.dll
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\obj\Debug\net5.0\helloworld.pdb
+E:\Koray\JavaScript\10 Beginner JS Projects\jQuery\counting characters\Information-Message\C-Sharp-Fundamentals\helloworld\obj\Debug\net5.0\helloworld.genruntimeconfig.cache
